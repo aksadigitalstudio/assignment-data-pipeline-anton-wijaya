@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+venv/
+
+# File semetara python
+__pycache__/
+*.py[cod]
+
+# Kredensial
+.env
+.env.*
+!.env.example
+
+# Metadata sistem
+.DS_Store
+__MACOSX/
